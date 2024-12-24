@@ -1,0 +1,51 @@
+Student_ID,Internal_1,Internal_2,Internal_3,Assignment_Marks,Other_Activities,Gender,Residence,Disability,Attendance_Percentage,Study_Hours_Per_Week,Part_Time_Job
+ST1000,20,20,20,10,5,Male,Rural,None,90,40,0
+ST1001,15.07,10.12,14.17,6.07,2.53,Male,Urban,None,87.42,5.43,0
+ST1002,5.1,9.75,7.95,7.63,2.09,Other,Urban,None,70.88,22.33,1
+ST1003,11.1,12.27,6.3,5.91,3.11,Male,Urban,None,73.49,16.88,1
+ST1004,9.6,10.83,9.59,10,2.99,Male,Suburban,Learning ,74.42,19.11,0
+ST1005,7.12,12.84,4.16,4.34,3.2,Female,Suburban,None,92.38,15.86,0
+ST1006,11.54,10.8,6.09,5.56,2.54,Female,Rural,None,95.57,16.72,0
+ST1007,4.95,13.3,10.46,5.65,3.61,Other,Urban,None,95.31,19.66,0
+ST1008,8.64,10.76,13.33,8.95,2.52,Female,Suburban,None,83.14,9.47,1
+ST1009,7.22,15.25,17.42,6.86,4,Other,Urban,None,88.62,11.77,0
+ST1010,13.45,18.15,11.86,10,0.38,Female,Rural,Learning ,93.22,15.44,0
+ST1011,10.8,12.37,4.05,6.56,3.36,Other,Rural,Visual Impairment,99.78,12.41,0
+ST1012,8.77,9.99,15.66,7.66,2.47,Other,Suburban,Learning ,90.13,15.49,1
+ST1013,15.87,9.19,10.69,6.22,1.54,Female,Suburban,None,87.96,16.31,0
+ST1014,12.02,11.06,6.34,6.16,2.66,Other,Rural,None,76.98,14.19,1
+ST1015,13.62,19.54,12.7,7.52,2.93,Female,Suburban,None,65.81,14.87,0
+ST1016,12.24,20,11.23,7.6,2.97,Male,Rural,None,73.31,20.71,0
+ST1017,15.01,15.16,8.36,9.81,1.6,Other,Suburban,None,90.87,25.95,0
+ST1018,8.04,9.73,12.4,5.99,1.45,Other,Suburban,None,85.69,9.69,0
+ST1019,13.89,8.32,18.2,5.43,2.68,Other,Rural,None,93.14,8.85,0
+ST1020,12.91,17.23,5.57,7.37,3.26,Female,Urban,None,92.82,8.82,0
+ST1021,6.72,14.09,13.19,7.5,3.35,Female,Suburban,None,78.2,16.16,0
+ST1022,13.17,9.14,19.46,7.95,1.81,Female,Urban,None,91.57,10.13,0
+ST1023,15.15,16.63,8.72,8.93,3.41,Other,Rural,None,93.22,24.48,0
+ST1024,11.02,8.99,8.44,5.37,2.92,Other,Suburban,None,88.41,16.38,0
+ST1025,15.31,12.05,17.81,6.47,5,Female,Urban,None,91.26,10.71,1
+ST1026,7.72,13.93,11.11,8.43,3.47,Male,Suburban,Learning ,84.27,10.77,0
+ST1027,5.94,10.21,15.43,7.43,1.75,Female,Urban,None,86.73,16.93,0
+ST1028,8.46,12.61,12.23,4.71,3.36,Male,Rural,None,90.61,20.42,0
+ST1029,16.22,6.49,8.25,8.03,3.51,Male,Suburban,Learning ,90.15,30,0
+ST1030,14.28,16.54,15.82,8.3,2.68,Male,Urban,None,92.59,11.14,0
+ST1031,11.05,10.06,12.33,10,1.13,Other,Urban,Learning ,91.86,6.94,1
+ST1032,10.11,16.36,12.26,4.84,2.28,Female,Suburban,None,91.8,11.35,1
+ST1033,12.87,12.18,9.39,10,3.63,Male,Suburban,None,64.75,15.93,0
+ST1034,9.35,15.41,8.83,6.77,3.5,Female,Urban,None,93.66,9,1
+ST1035,10.66,10.1,9.39,10,3.4,Other,Rural,Physical ,72.39,19.59,1
+ST1036,20,16.13,5.92,6.03,4.27,Other,Rural,None,77.92,17.22,1
+ST1037,15.1,8.29,11.76,0.52,1.98,Other,Rural,None,82.47,8.76,1
+ST1038,18.53,6.28,10.24,7.26,4.44,Male,Rural,None,70.64,20.82,1
+ST1039,12.04,8.07,13.85,7.4,2.4,Female,Rural,None,85.7,13.07,0
+ST1040,12.45,14.65,18.34,4.52,5,Male,Rural,Physical ,65.48,14.24,1
+ST1041,14.35,13.12,9.51,6.58,2.51,Female,Suburban,None,79.11,19.25,1
+ST1042,13.43,9.23,15.6,7.61,3.81,Other,Urban,None,91.3,10.86,1
+ST1043,9.76,14.99,14.44,6.96,3.12,Other,Urban,None,97.78,12.04,0
+ST1044,14.19,11.19,11.13,9.2,3.83,Female,Urban,None,93.14,21.53,0
+ST1045,12.08,14.73,10.76,7.65,2.87,Male,Rural,None,85.97,17.98,0
+ST1046,8.73,20,7.98,4.57,4.16,Other,Rural,None,92.92,18.12,0
+ST1047,14.51,11.95,8.41,7.15,2.32,Other,Urban,None,94.75,14.26,0
+ST1048,8.7,10.71,13.65,5.87,2.18,Other,Suburban,Physical ,87.44,16.22,0
+ST1049,9.97,10.12,12.93,4.1,1.59,Male,Suburban,None,77.82,13.93,0

@@ -1,0 +1,13 @@
+Student_ID,Internal_1,Internal_2,Internal_3,Assignment_Marks,Other_Activities,Gender,Residence,Disability,Attendance_Percentage,Study_Hours_Per_Week,Part_Time_Job,Subject_Code
+1,15.07,10.12,14.17,6.07,2.53,Male,Urban,None,87.42,5.43,No,Math
+1,5.1,9.75,7.95,7.63,2.09,Other,Urban,None,70.88,22.33,No,Science
+1,14,13,16,7,4,Male,Urban,None,87,11,No,English
+1,13,14,14,8,4,Male,Urban,None,88,10,Yes,History
+1,20,20,20,10,5,Male,Urban,None,89,8,Yes,Geography
+1,14,15,17,8,4,Male,Urban,None,94,11,Yes,Art
+2,14,15,16,9,4,Female,Rural,Learning,88,8,Yes,Math
+2,17,13,17,9,4,Female,Rural,Learning,93,12,No,Science
+2,15,13,14,9,4,Female,Rural,Learning,87,10,Yes,English
+2,17,13,17,8,4,Female,Rural,Learning,93,12,No,History
+2,15,16,15,9,4,Female,Rural,Learning,94,10,No,Geography
+2,14,14,17,8,4,Female,Rural,Learning,89,12,No,Art
